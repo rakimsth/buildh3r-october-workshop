@@ -25,3 +25,5 @@ To use this in a real Aleo application, you would deploy this program to the Ale
 ## Result
 
 ![result](./solution/image.png)
+
+The website is available for testing in the [link](https://buildh3r-october-workshop.pages.dev)
