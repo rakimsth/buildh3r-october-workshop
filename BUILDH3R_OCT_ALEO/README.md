@@ -26,4 +26,7 @@ To use this in a real Aleo application, you would deploy this program to the Ale
 
 ![result](./solution/image.png)
 
-The website is available for testing in the [link](https://buildh3r-october-workshop.pages.dev)
+## Frontend Integration
+
+- The website is available for testing in the [link](https://buildh3r-october-workshop.pages.dev)
+- The codes for the frontend is available in this [link](https://github.com/rakimsth/buildh3r-october-workshop/tree/main/BUILDH3R_OCT_ALEO/frontend)
