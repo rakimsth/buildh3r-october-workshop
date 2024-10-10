@@ -1,8 +1,11 @@
-# React + Vite
+# Pregnancy Check App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This application is built using create-leo-app inorder to interact with the aleo program written to check the status of the pregnancy without revealing much information
 
-Currently, two official plugins are available:
+# Steps
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. npm i
+2. npm run build
+3. npm run preview
+
+The reason for build instead of running in dev env is to ensure that the wasm files are compiled using the webpack inorder for the aleo program to work.
